@@ -1,0 +1,1 @@
+用法和 `golang.org/x/tools/cmd/stringer` 相同，`go generate` 结果增加了解析方法 `func Parse%{typeName}String(s string) (%{typeName}s, bool) `
